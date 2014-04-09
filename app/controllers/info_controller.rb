@@ -14,6 +14,9 @@ class InfoController < ApplicationController
   def accounting
   end
 
+  def banking
+  end
+
   def outsourcing
   end
 
